@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+} 
+
+
+header{
+    font-size: 150%;
+    background: rgba(129, 236, 236,1.0);
+    padding: 10px;
+    position: relative;
+    font-family: 'Niramit', sans-serif;
+    color: #2e343b;
+    
+}
+#header-img{
+    border-radius: 60%;
+    height: 40%;
+    right: 90px;
+    left: 60%;
+    top: 25%;
+}
+
+#after-intro{
+    background-color:#f9f9f9;
+}
+
+#work-exp{
+    background: #bcbab8;
+}
+
+#program-language{
+background: hsl(0, 7%, 59%);
+color: #2b2b2b;
+font-family: 'Niramit', sans-serif;
+}
+
+table, td{
+    border: 1px solid black;
+text-align: center;
+
+}
+
+#education{
+    background: #373640;
+}
+
+#footer{
+    background: #000;
+}
+
+div{
+    padding: 10%;
+}
+h1 {
+    font-display: Roboto
+}
+
+.second-header{
+    font-size: 40px;
+    font-family: 'Niramit', sans-serif;
+    color: #2e343b;
+}
+
+p, ul{
+    line-height: 1.6em;
+    font-family: 'Niramit', sans-serif;
+    color: #2e343b;
+}
+
+#uni-pic{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10%;
+
+
+}
+.socials{
+    border-radius: 40%
+}
+
+.intro{
+    display: inline-block;
+}
+
+ul{
+    line-height: 1.6em;
+}
+
+.test{
+    display: inline-block;
+}
